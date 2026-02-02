@@ -8,4 +8,7 @@ This repository was created for learning Git and GitHub.
 
 This change was made locally on my Mac computer.
 Date: feb 1,2026
-CONFLICTING LINE: Main branch version
+
+CONFLICTING LINE RESOLUTION:
+- Main branch version
+- Branch A version
