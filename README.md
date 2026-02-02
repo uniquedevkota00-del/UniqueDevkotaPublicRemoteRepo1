@@ -7,4 +7,4 @@ This repository was created for learning Git and GitHub.
 ## Local Change
 
 This change was made locally on my Mac computer.
-Date: Feb 1, 2026
+Date: feb 1,2026
